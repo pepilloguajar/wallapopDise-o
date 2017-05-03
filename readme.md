@@ -5,5 +5,3 @@ Práctica de diseño de una app móvil utilizando el programa Sketch. El reposit
 Además dejo el flujo de navegación de las pantallas en Marvel:
 
 <https://marvelapp.com/4504f41>
-
-![QR](https://www.dropbox.com/s/hzcueasgwp7xztq/QR%20Wallapop.png?dl=0)
